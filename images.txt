@@ -1,1 +1,2 @@
-apachesuperset.docker.scarf.sh/apache/superset
+redis:7
+postgres:15
