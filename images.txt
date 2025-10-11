@@ -1,1 +1,2 @@
-apachesuperset.docker.scarf.sh/apache/superset:4.1.4
+docker.io/library/python:3.11.13-slim-bookworm
+docker.io/library/node:20-bookworm-slim
