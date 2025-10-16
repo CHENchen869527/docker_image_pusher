@@ -1,2 +1,2 @@
 apachesuperset.docker.scarf.sh/apache/superset:5.0.0-dev
-apachesuperset.docker.scarf.sh/apache/superset:last-dev
+apachesuperset.docker.scarf.sh/apache/superset:latest-dev
