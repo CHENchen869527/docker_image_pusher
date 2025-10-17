@@ -1,1 +1,2 @@
-apache/superset-cache:3.10
+--platform=linux/arm64 node:20-bookworm-slim
+--platform=linux/arm64 python:3.11.13-slim-bookworm
