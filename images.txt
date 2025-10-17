@@ -1,1 +1,2 @@
---platform=linux/arm64 apachesuperset.docker.scarf.sh/apache/superset:4.1.4
+--platform=linux/arm64 redis:7
+--platform=linux/arm64 postgres:15
