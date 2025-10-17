@@ -1,2 +1,2 @@
-apachesuperset.docker.scarf.sh/apache/superset:5.0.0-dev
-apachesuperset.docker.scarf.sh/apache/superset:latest-dev
+docker.io/library/python:3.11.13
+arm64v8/python:3.11
