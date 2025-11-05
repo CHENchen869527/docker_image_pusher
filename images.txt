@@ -1,2 +1,1 @@
---platform=linux/arm64 redis:7
---platform=linux/arm64 postgres:15
+kindest/node:v1.32.2
