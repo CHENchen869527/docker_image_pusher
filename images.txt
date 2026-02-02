@@ -1,1 +1,1 @@
-wojiushixiaobai/dataease
+--platform=linux/arm64 wojiushixiaobai/dataease
