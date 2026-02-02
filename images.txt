@@ -1,1 +1,1 @@
-dataease/dataease:2.10.19
+wojiushixiaobai/dataease:2.10.10
