@@ -1,1 +1,1 @@
-datart/datart
+dataease/dataease:latest
