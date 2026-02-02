@@ -1,1 +1,1 @@
-dataease/dataease:latest
+dataease/dataease:2.10.19
