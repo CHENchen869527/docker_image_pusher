@@ -1,1 +1,1 @@
---platform=linux/arm64 mariadb:10.6.24
+mariadb:10.6.24
