@@ -1,1 +1,1 @@
-arm64v8/mariadb:10.6
+arm64v8/mariadb:10.11
