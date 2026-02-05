@@ -1,1 +1,1 @@
---platform=linux/arm64 wojiushixiaobai/dataease
+--platform=linux/arm64 mariadb:10.6
