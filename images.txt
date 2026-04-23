@@ -1,1 +1,1 @@
-nacos/nacos-server:2.2.3
+--platform=linux/arm64 openjdk:17-rc-oraclelinux8
