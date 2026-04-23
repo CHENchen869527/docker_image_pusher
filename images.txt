@@ -1,1 +1,1 @@
---platform=linux/arm64 openjdk:17-rc-oraclelinux8
+--platform=linux/arm64 openjdk:17-jre-slim-bookworm
