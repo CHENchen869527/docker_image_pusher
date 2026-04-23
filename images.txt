@@ -1,1 +1,1 @@
---platform=linux/arm64 openjdk:17-jre-slim-bookworm
+--platform=linux/arm64 openjdk:17-jre-slim
