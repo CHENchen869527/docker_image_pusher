@@ -1,1 +1,1 @@
---platform=linux/arm64 docker.xuanyuan.run/arm64v8/eclipse-temurin:17-ubi10-minimal
+--platform=linux/arm64 adoptopenjdk/openjdk17
