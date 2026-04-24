@@ -1,1 +1,1 @@
---platform=linux/arm64 eclipse-temurin:17-jre-alpine
+--platform=linux/arm64 openjdk:17-jdk-alpine
