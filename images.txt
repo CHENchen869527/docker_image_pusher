@@ -1,1 +1,3 @@
---platform=linux/arm64 eclipse-temurin:8-jdk
+node:22-bookworm
+rust:1-bookworm
+debian:bookworm-slim
