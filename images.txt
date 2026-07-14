@@ -1,1 +1,1 @@
---platform=linux/arm64 qingpan/rnacos:2.5.1
+--platform=linux/arm64 nacos/nacos:v2.5.1
