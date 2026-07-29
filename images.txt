@@ -1,1 +1,6 @@
-apache/seatunnel:2.3.8
+postgres:17
+valkey/valkey:8.1-alpine
+nacos/nacos-server:v3.2.3
+minio/minio:RELEASE.2026-06-10T14-06-33Z
+apache/seatunnel:2.3.13
+apache/dolphinscheduler-standalone-server:3.4.2
