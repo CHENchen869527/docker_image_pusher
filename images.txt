@@ -1,3 +1,2 @@
-minio/minio:RELEASE.2025-09-07T16-13-09Z
-apache/seatunnel:2.3.13
-apache/dolphinscheduler-standalone-server:3.4.2
+apache/kafka:4.3
+amd64/neo4j:5.23-community
