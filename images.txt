@@ -1,1 +1,1 @@
---platform=linux/arm64 apachesuperset.docker.scarf.sh/apache/superset:6.1.0
+--platform=linux/arm64 postgres:17
