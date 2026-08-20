@@ -1,1 +1,2 @@
---platform=linux/arm64 postgres:17
+--platform=linux/arm64 node:20-trixie-slim
+--platform=linux/arm64 python:3.11.14-slim-trixie
