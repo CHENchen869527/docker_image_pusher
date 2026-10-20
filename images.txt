@@ -1,3 +1,1 @@
-tensorchord/pgvecto-rs:pg16-v0.3.0
-containers.intersystems.com/intersystems/iris-community:2025.3
-milvusdb/milvus:v2.6.3
+vastdata/vastbase-vector
