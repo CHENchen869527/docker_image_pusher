@@ -1,5 +1,5 @@
-dify-web:1.17.1
-dify-api:1.17.1
+langgenius/dify-web:1.17.1
+langgenius/dify-api:1.17.1
 busybox:latest
 langgenius/dify-agent-local-sandbox:1.17.1
 langgenius/dify-plugin-daemon:0.6.10-local
