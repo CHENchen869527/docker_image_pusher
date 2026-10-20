@@ -1,1 +1,15 @@
---platform=linux/arm64 python:3.12-slim
+langgenius/dify-sandbox:0.2.15
+mysql:8.0
+dify-web:1.17.1
+dify-api:1.17.1
+busybox:latest
+langgenius/dify-agent-local-sandbox:1.17.1
+langgenius/dify-plugin-daemon:0.6.10-local
+langgenius/dify-agent-backend:1.17.1
+cr.weaviate.io/semitechnologies/weaviate:1.39.2
+oceanbase/seekdb:latest
+langgenius/qdrant:v1.8.3
+vastdata/vastbase-vector
+tensorchord/pgvecto-rs:pg16-v0.3.0
+containers.intersystems.com/intersystems/iris-community:2025.3
+milvusdb/milvus:v2.6.3
